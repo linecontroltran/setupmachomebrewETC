@@ -1,0 +1,9 @@
+in the terminal
+
+brew install node
+
+test node with 
+
+node -v
+
+npm -v

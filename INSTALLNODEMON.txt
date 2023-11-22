@@ -1,0 +1,9 @@
+install nodemon globally
+
+open terminal
+
+npm install -g nodemon 
+
+check if install with
+
+nodemon -v

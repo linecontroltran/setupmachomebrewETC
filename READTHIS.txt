@@ -1,0 +1,22 @@
+open terminal
+
+run this 
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+then run this
+
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/tomtran/.zprofile
+
+then run this 
+
+source ~/.zprofile
+
+then run this 
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
+then run brew help
+
+or brew -v
+

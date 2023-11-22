@@ -1,0 +1,7 @@
+open terminal
+
+brew install rust
+
+then run to make sure it installed
+
+rustc --version
